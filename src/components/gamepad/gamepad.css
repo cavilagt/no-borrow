@@ -1,0 +1,11 @@
+.gamepad {
+  display: inline-grid;
+  grid-template-columns: repeat(3, auto);
+  gap: .3rem .25rem;
+  margin-top: 2rem;
+}
+
+.oneButtonRow {
+  grid-column: span 3;
+  justify-self: center;
+}

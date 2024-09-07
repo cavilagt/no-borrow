@@ -1,0 +1,12 @@
+.layout {
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  gap: 20px;
+}
+.controls {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 10px;
+}
